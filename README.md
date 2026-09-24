@@ -1,21 +1,20 @@
 # Anthony Huaynate | Research & Economic Data Science
 
-Estudiante de Economía enfocado en microeconometría aplicada, ciencia de datos y desarrollo de herramientas de software estadístico en Stata y Python.
+Estudiante de Economía enfocado en microeconometría, macroeconometría y desarrollo de herramientas de software estadístico en Stata y Python.
 
 ---
 
 <details>
-<summary><b>🛠️ Open-Source Tools & Data Packages (Clic para desplegar)</b></summary>
+<summary><b> Open-Source Tools & Data Packages (Clic para desplegar)</b></summary>
 <br>
 
 * **[tool-stata-dbcrp](https://github.com/Anthony-maxed/tool-stata-dbcrp)**: Comando de Stata para descargar series de tiempo macroeconómicas directamente desde la API oficial del Banco Central de Reserva del Perú (BCRP).
-* **[ENAHO-STATA-TOOL](https://github.com/Anthony-maxed/ENAHO-STATA-TOOL)**: Colección de scripts y do-files en Stata para la limpieza, recodificación y procesamiento eficiente de microdatos de la Encuesta Nacional de Hogares (ENAHO).
 <!-- Aquí puedes seguir añadiendo más herramientas en el futuro sin saturar la pantalla -->
 
 </details>
 
 <details>
-<summary><b>📑 Research Papers & Working Papers (Clic para desplegar)</b></summary>
+<summary><b> Research Papers & Working Papers (Clic para desplegar)</b></summary>
 <br>
 
 * **[paper-tope-tasas-inter-s](https://github.com/Anthony-maxed/paper-tope-tasas-inter-s)**: Análisis empírico del impacto de la regulación y topes a las tasas de interés en el sistema financiero. Incluye do-files de Stata y documentación metodológica.
@@ -24,7 +23,7 @@ Estudiante de Economía enfocado en microeconometría aplicada, ciencia de datos
 </details>
 
 <details>
-<summary><b>🎓 Academic Thesis (Clic para desplegar)</b></summary>
+<summary><b> Academic Thesis (Clic para desplegar)</b></summary>
 <br>
 
 * **[tesis-mypes-billeteras-digitales-formalidad-peru](https://github.com/Anthony-maxed/tesis-mypes-billeteras-digitales-formalidad-peru)**: 
@@ -36,4 +35,4 @@ Estudiante de Economía enfocado en microeconometría aplicada, ciencia de datos
 ---
 
 ### 💻 Stack Técnico
-`Stata` `Python` `Econometría Aplicada` `Microdatos` `Series de Tiempo`
+`Stata` `Python` `Microeconometría` `Macroeconometría`
