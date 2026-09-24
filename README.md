@@ -23,7 +23,7 @@ Estudiante de Economía enfocado en microeconometría, macroeconometría y desar
 </details>
 
 <details>
-<summary><b> Academic Tesis (Clic para desplegar)</b></summary>
+<summary><b> Academic Thesis (Clic para desplegar)</b></summary>
 <br>
 
 * **[tesis-mypes-billeteras-digitales-formalidad-peru](https://github.com/Anthony-maxed/tesis-mypes-billeteras-digitales-formalidad-peru)**: 
