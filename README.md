@@ -14,7 +14,7 @@ Estudiante de Economía enfocado en microeconometría, macroeconometría y desar
 </details>
 
 <details>
-<summary><b> Research Papers & Working Papers (Clic para desplegar)</b></summary>
+<summary><b> Papers & Working Papers & Articles (Clic para desplegar)</b></summary>
 <br>
 
 * **[paper-tope-tasas-inter-s](https://github.com/Anthony-maxed/paper-tope-tasas-inter-s)**: Análisis empírico del impacto de la regulación y topes a las tasas de interés en el sistema financiero. Incluye do-files de Stata y documentación metodológica.
@@ -23,7 +23,7 @@ Estudiante de Economía enfocado en microeconometría, macroeconometría y desar
 </details>
 
 <details>
-<summary><b> Academic Thesis (Clic para desplegar)</b></summary>
+<summary><b> Academic Tesis (Clic para desplegar)</b></summary>
 <br>
 
 * **[tesis-mypes-billeteras-digitales-formalidad-peru](https://github.com/Anthony-maxed/tesis-mypes-billeteras-digitales-formalidad-peru)**: 
