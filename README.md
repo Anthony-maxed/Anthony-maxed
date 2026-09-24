@@ -1,7 +1,6 @@
 # Anthony Huaynate | Research & Economic Data Science
 
-Estudiante de Economía enfocado en microeconometría, macroeconometría y desarrollo de herramientas de software estadístico en Stata y Python.
-
+Economics student focusing on microeconometrics, macroeconometrics, and statistical software tool development in Stata and Python.
 ---
 
 <details>
@@ -17,7 +16,7 @@ Estudiante de Economía enfocado en microeconometría, macroeconometría y desar
 <summary><b> Papers & Working Papers & Articles</b></summary>
 <br>
 
-* **[paper-tope-tasas-inter-s](https://github.com/Anthony-maxed/paper-tope-tasas-inter-s)**: Análisis empírico del impacto de la regulación y topes a las tasas de interés en el sistema financiero. Incluye do-files de Stata y documentación metodológica.
+* **[paper-tope-tasas-inter-s](https://github.com/Anthony-maxed/paper-tope-tasas-inter-s)**: 
 <!-- Aquí añades más papers -->
 
 </details>
@@ -27,12 +26,11 @@ Estudiante de Economía enfocado en microeconometría, macroeconometría y desar
 <br>
 
 * **[tesis-mypes-billeteras-digitales-formalidad-peru](https://github.com/Anthony-maxed/tesis-mypes-billeteras-digitales-formalidad-peru)**: 
-  * **Título:** *Impacto del uso de billeteras digitales en la formalidad tributaria de los microempresarios de las MYPE en el Perú.*
-  * **Metodología:** Modelos de elección discreta (Logit / Probit), estimación de efectos marginales y procesamiento de microdatos de la ENAHO en Stata.
+  
 
 </details>
 
 ---
 
 ### 💻 Stack Técnico
-`Stata` `Python` `Microeconometría` `Macroeconometría`
+`Stata` `Python` `Microeconometrics` `Macroeconometrics`
